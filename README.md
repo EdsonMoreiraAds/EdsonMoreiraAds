@@ -1,4 +1,4 @@
-- 👋 Oi, Sou @EdsonMoreira
+- 👋 Oi, Sou EdsonMoreira
 - 👀 Eu tenho interesse em Programação JavaScript, Python, PHP.
 - 🌱 Atualmente estou aprendendo HTML, CSS, Java Script, React, Python.
 - 💞️ Sou gerente de marketing digital evoluafortal.com.br
